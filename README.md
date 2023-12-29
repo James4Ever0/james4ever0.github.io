@@ -15,7 +15,7 @@ I build Cybergod for greater good.
 ## How to build this webpage
 
 <pre lang="bash"><code>
-# the css file is from: https://github.com/sindresorhus/github-markdown-css/tree/main
+# the css file is from: https://github.com/sindresorhus/github-markdown-css
 git clone https://github.com/james4ever0/james4ever0.github.io
 cd james4ever0.github.io
 # modify README.md as you like
