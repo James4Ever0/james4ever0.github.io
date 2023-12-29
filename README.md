@@ -14,10 +14,11 @@ I build Cybergod for greater good.
 
 ## How to build this webpage
 
-```bash
+<pre lang="bash"><code>
 git clone https://github.com/james4ever0/james4ever0.github.io
 cd james4ever0.github.io
 # modify README.md as you like
 pip3 install -r requirements.txt
 python3 build.py
-```
+</code>
+</pre>
