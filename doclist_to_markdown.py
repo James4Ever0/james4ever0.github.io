@@ -32,7 +32,7 @@ for line in doclist:
         if not resp.status_code == 200:
             abnormal_names.append(line)
         else:
-            print(f"[{line}]({url})")
+            print(f"[{line if not line.endswith('_doc') else line[:-4]}]({url})")
             resp = sess.get(sitemap_url, verify=False, stream=True)
             if not resp.status_code == 200:
                 abnormal_sitemaps.append(sitemap_url)

@@ -5,62 +5,63 @@ Collection for automated documentation.
 Generated with [prometheus](https://github.com/james4ever0/prometheus)
 
 - Cybergod (Autonomous Computer)
-    - [AppAgent](https://james4ever0.github.io/AppAgent)
-    - [CogVLM](https://james4ever0.github.io/CogVLM)
-    - [cybergod_doc](https://james4ever0.github.io/cybergod_doc)
-    - [gpt4v-browsing](https://james4ever0.github.io/gpt4v-browsing)
-    - [gpt-eyes](https://james4ever0.github.io/gpt-eyes)
-    - [GPT-4V-Act](https://james4ever0.github.io/GPT-4V-Act)
-    - [self-operating-computer](https://james4ever0.github.io/self-operating-computer)
-    - [SingularGPT](https://james4ever0.github.io/SingularGPT)
-    - [Video-Pre-Training](https://james4ever0.github.io/Video-Pre-Training)
+    - [AppAgent](https://james4ever0.github.io/AppAgent) Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps. 
+    - [CogVLM](https://james4ever0.github.io/CogVLM) a state-of-the-art-level open visual language model | 多模态预训练模型 
+    - [cybergod](https://james4ever0.github.io/cybergod_doc) Autonomous computer program that can do anything without human operators. 
+    - [gpt4v-browsing](https://james4ever0.github.io/gpt4v-browsing) Web Scraping with GPT-4 Vision API and Puppeteer 
+    - [gpt-eyes](https://james4ever0.github.io/gpt-eyes) I GAVE GPT-4 EYES! 
+    - [GPT-4V-Act](https://james4ever0.github.io/GPT-4V-Act) AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI 
+    - [self-operating-computer](https://james4ever0.github.io/self-operating-computer) A framework to enable multimodal models to operate a computer. 
+    - [SingularGPT](https://james4ever0.github.io/SingularGPT) - Automate device by ChatGPT , Make your device more like a human.
+    - [Video-Pre-Training](https://james4ever0.github.io/Video-Pre-Training) (VPT) Learning to Act by Watching Unlabeled Online Videos 
 - Image models
-    - [CLIP](https://james4ever0.github.io/CLIP)
-    - [DALL-E](https://james4ever0.github.io/DALL-E)
-    - [DALLE2-pytorch](https://james4ever0.github.io/DALLE2-pytorch)
+    - [CLIP](https://james4ever0.github.io/CLIP) (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image 
+    - [DALL-E](https://james4ever0.github.io/DALL-E) PyTorch package for the discrete VAE used for DALL·E. 
+    - [DALLE2-pytorch](https://james4ever0.github.io/DALLE2-pytorch)  OpenAI's updated text-to-image synthesis neural network, in Pytorch
 - Utils
-    - [git_atomic_commit](https://james4ever0.github.io/git_atomic_commit)
-    - [lazero](https://james4ever0.github.io/lazero)
+    - [git_atomic_commit](https://james4ever0.github.io/git_atomic_commit) To fix any issue detected by `git fsck` caused by any git operation, once for all
+    - [lazero](https://james4ever0.github.io/lazero) AGI helper libraries, may help for AGI developments and researches, similar to google's automl-zero 
 - Q* (Q-Star)
-    - [q-transformer](https://james4ever0.github.io/q-transformer)
-    - [open_qstar](https://james4ever0.github.io/open_qstar)
-    - [q-star](https://james4ever0.github.io/q-star)
-    - [mcts-for-llm](https://james4ever0.github.io/mcts-for-llm)
+    - [q-transformer](https://james4ever0.github.io/q-transformer) Scalable Offline Reinforcement Learning via Autoregressive Q-Functions, out of Google Deepmind
+    - [open_qstar](https://james4ever0.github.io/open_qstar) Transformer-based LLM structurally infused with Q-Learning and A* heuristic search algorithms 
+    - [q-star](https://james4ever0.github.io/q-star) A reinforcement learning-based framework for intelligent agents using Microsoft AutoGen.
+    - [mcts-for-llm](https://james4ever0.github.io/mcts-for-llm) This is a pip package implementing Reinforcement Learning algorithms in non-stationary environments supported by the OpenAI Gym toolkit. 
 - Superalignment
-    - [automated-interpretability](https://james4ever0.github.io/automated-interpretability)
-    - [weak-to-strong](https://james4ever0.github.io/weak-to-strong)
+    - [automated-interpretability](https://james4ever0.github.io/automated-interpretability) Language models can explain neurons in language models
+    - [weak-to-strong](https://james4ever0.github.io/weak-to-strong) Can weak
+model supervision elicit the full capabilities of a much stronger model?
 - Audio models
-    - [whisper](https://james4ever0.github.io/whisper)
+    - [whisper](https://james4ever0.github.io/whisper) Robust Speech Recognition via Large-Scale Weak Supervision
 - Tree of Thoughts
-    - [graph-of-thoughts](https://james4ever0.github.io/graph-of-thoughts)
-    - [lmql-tree-of-thoughts](https://james4ever0.github.io/lmql-tree-of-thoughts)
-    - [tree-of-thoughts](https://james4ever0.github.io/tree-of-thoughts)
-    - [LLM_Tree_Search](https://james4ever0.github.io/LLM_Tree_Search)
+    - [graph-of-thoughts](https://james4ever0.github.io/graph-of-thoughts) Solving Elaborate Problems with Large Language Models
+    - [lmql-tree-of-thoughts](https://james4ever0.github.io/lmql-tree-of-thoughts) LMQL implementation of tree of thoughts 
+    - [tree-of-thoughts](https://james4ever0.github.io/tree-of-thoughts) Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by at least 70%
+    - [LLM_Tree_Search](https://james4ever0.github.io/LLM_Tree_Search) Alphazero-like Tree-Search can guide large language model decoding and training 
 - Embodied Intelligence
-    - [Voyager](https://james4ever0.github.io/Voyager)
-    - [RoboGen](https://james4ever0.github.io/RoboGen)
+    - [Voyager](https://james4ever0.github.io/Voyager) An Open-Ended Embodied Agent with Large Language Models 
+    - [RoboGen](https://james4ever0.github.io/RoboGen) A generative and self-guided robotic agent that endlessly propose and master new skills. 
 - Media content automation
-    - [vced](https://james4ever0.github.io/vced)
-    - [pyjom_doc](https://james4ever0.github.io/pyjom_doc)
-    - [PaddleVideo](https://james4ever0.github.io/PaddleVideo)
-    - [google-research](https://james4ever0.github.io/google-research)
+    - [vced](https://james4ever0.github.io/vced) 通过你的文字描述来自动识别视频中相符合的片段进行视频剪辑
+    - [pyjom](https://james4ever0.github.io/pyjom_doc) Social media automation project 
+    - [PaddleVideo](https://james4ever0.github.io/PaddleVideo) Awesome video understanding toolkits based on PaddlePaddle. 
+    - [google-research](https://james4ever0.github.io/google-research) Google Research 
 - Multimodal Transformer
-    - [MultiModalMamba](https://james4ever0.github.io/MultiModalMamba)
-    - [Gemini](https://james4ever0.github.io/Gemini)
-    - [gato](https://james4ever0.github.io/gato)
+    - [MultiModalMamba](https://james4ever0.github.io/MultiModalMamba) A novel implementation of fusing ViT with Mamba into a fast, agile, and high performance Multi-Modal Model.
+    - [Gemini](https://james4ever0.github.io/Gemini) The model that will "eclipse ChatGPT"
+    - [gato](https://james4ever0.github.io/gato) A Generalist Agent 
 - Robotic Transformer
-    - [robo_transformers](https://james4ever0.github.io/robo_transformers)
-    - [RT-2](https://james4ever0.github.io/RT-2)
-    - [AutoRT](https://james4ever0.github.io/AutoRT)
-    - [open_x_embodiment](https://james4ever0.github.io/open_x_embodiment)
-    - [robotics_transformer](https://james4ever0.github.io/robotics_transformer)
-    - [RT-X](https://james4ever0.github.io/RT-X)
+    - [robo_transformers](https://james4ever0.github.io/robo_transformers) Library for Robotic Transformers. RT-1, RT-X-1, Octo
+    - [RT-2](https://james4ever0.github.io/RT-2) New model translates vision and language into action
+    - [AutoRT](https://james4ever0.github.io/AutoRT) Embodied Foundation Models for Large Scale Orchestration of Robotic Agents
+    - [open_x_embodiment](https://james4ever0.github.io/open_x_embodiment) Robotic Learning Datasets and RT-X Models
+    - [robotics_transformer](https://james4ever0.github.io/robotics_transformer) A collection code files and artifacts for running Robotics Transformer or RT-1.
+    - [RT-X](https://james4ever0.github.io/RT-X) Pytorch implementation of the models RT-1-X and RT-2-X from the paper: "Open X-Embodiment: Robotic Learning Datasets and RT-X Models" 
 - RAG and Automated Documentation
-    - [my_blog_source](https://james4ever0.github.io/my_blog_source)
-    - [local_rag](https://james4ever0.github.io/local_rag)
-    - [autodoc](https://james4ever0.github.io/autodoc)
-    - [prometheous_doc](https://james4ever0.github.io/prometheous_doc)
-    - [write-the](https://james4ever0.github.io/write-the)
+    - [my_blog_source](https://james4ever0.github.io/my_blog_source) AI assisted blog metadata generator 
+    - [local_rag](https://james4ever0.github.io/local_rag) Chat with Your Multiple PDFs on Your Local System
+    - [autodoc](https://james4ever0.github.io/autodoc)  Experimental toolkit for auto-generating codebase documentation using LLMs 
+    - [prometheous](https://james4ever0.github.io/prometheous_doc) AI generated documentation and RAG 
+    - [write-the](https://james4ever0.github.io/write-the) AI-powered Documentation and Test Generation Tool 
 - Miscellaneous
-    - [Kacket](https://james4ever0.github.io/Kacket)
-    - [he4o](https://james4ever0.github.io/he4o)
+    - [Kacket](https://james4ever0.github.io/Kacket) A toy Racket/Scheme code analyzer written in Kotlin.
+    - [he4o](https://james4ever0.github.io/he4o) HE —— “螺旋熵减机” 
