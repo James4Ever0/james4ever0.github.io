@@ -1,6 +1,6 @@
 # The shelf
 
-Collection for automated documentation.
+Collection of automated documentation.
 
 Generated with [prometheus](https://github.com/james4ever0/prometheus)
 
