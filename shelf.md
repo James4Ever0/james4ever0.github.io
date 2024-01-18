@@ -1,0 +1,66 @@
+# The shelf
+
+Collection for automated documentation.
+
+Generated with [prometheus](https://github.com/james4ever0/prometheus)
+
+- Cybergod (Autonomous Computer)
+    - [AppAgent](https://james4ever0.github.io/AppAgent)
+    - [CogVLM](https://james4ever0.github.io/CogVLM)
+    - [cybergod_doc](https://james4ever0.github.io/cybergod_doc)
+    - [gpt4v-browsing](https://james4ever0.github.io/gpt4v-browsing)
+    - [gpt-eyes](https://james4ever0.github.io/gpt-eyes)
+    - [GPT-4V-Act](https://james4ever0.github.io/GPT-4V-Act)
+    - [self-operating-computer](https://james4ever0.github.io/self-operating-computer)
+    - [SingularGPT](https://james4ever0.github.io/SingularGPT)
+    - [Video-Pre-Training](https://james4ever0.github.io/Video-Pre-Training)
+- Image models
+    - [CLIP](https://james4ever0.github.io/CLIP)
+    - [DALL-E](https://james4ever0.github.io/DALL-E)
+    - [DALLE2-pytorch](https://james4ever0.github.io/DALLE2-pytorch)
+- Utils
+    - [git_atomic_commit](https://james4ever0.github.io/git_atomic_commit)
+    - [lazero](https://james4ever0.github.io/lazero)
+- Q* (Q-Star)
+    - [q-transformer](https://james4ever0.github.io/q-transformer)
+    - [open_qstar](https://james4ever0.github.io/open_qstar)
+    - [q-star](https://james4ever0.github.io/q-star)
+    - [mcts-for-llm](https://james4ever0.github.io/mcts-for-llm)
+- Superalignment
+    - [automated-interpretability](https://james4ever0.github.io/automated-interpretability)
+    - [weak-to-strong](https://james4ever0.github.io/weak-to-strong)
+- Audio models
+    - [whisper](https://james4ever0.github.io/whisper)
+- Tree of Thoughts
+    - [graph-of-thoughts](https://james4ever0.github.io/graph-of-thoughts)
+    - [lmql-tree-of-thoughts](https://james4ever0.github.io/lmql-tree-of-thoughts)
+    - [tree-of-thoughts](https://james4ever0.github.io/tree-of-thoughts)
+    - [LLM_Tree_Search](https://james4ever0.github.io/LLM_Tree_Search)
+- Embodied Intelligence
+    - [Voyager](https://james4ever0.github.io/Voyager)
+    - [RoboGen](https://james4ever0.github.io/RoboGen)
+- Media content automation
+    - [vced](https://james4ever0.github.io/vced)
+    - [pyjom_doc](https://james4ever0.github.io/pyjom_doc)
+    - [PaddleVideo](https://james4ever0.github.io/PaddleVideo)
+    - [google-research](https://james4ever0.github.io/google-research)
+- Multimodal Transformer
+    - [MultiModalMamba](https://james4ever0.github.io/MultiModalMamba)
+    - [Gemini](https://james4ever0.github.io/Gemini)
+    - [gato](https://james4ever0.github.io/gato)
+- Robotic Transformer
+    - [robo_transformers](https://james4ever0.github.io/robo_transformers)
+    - [RT-2](https://james4ever0.github.io/RT-2)
+    - [AutoRT](https://james4ever0.github.io/AutoRT)
+    - [open_x_embodiment](https://james4ever0.github.io/open_x_embodiment)
+    - [robotics_transformer](https://james4ever0.github.io/robotics_transformer)
+    - [RT-X](https://james4ever0.github.io/RT-X)
+- RAG and Automated Documentation
+    - [my_blog_source](https://james4ever0.github.io/my_blog_source)
+    - [local_rag](https://james4ever0.github.io/local_rag)
+    - [autodoc](https://james4ever0.github.io/autodoc)
+    - [prometheous_doc](https://james4ever0.github.io/prometheous_doc)
+    - [write-the](https://james4ever0.github.io/write-the)
+- Miscellaneous
+    - [Kacket](https://james4ever0.github.io/Kacket)
+    - [he4o](https://james4ever0.github.io/he4o)

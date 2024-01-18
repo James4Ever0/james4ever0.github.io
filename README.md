@@ -9,8 +9,8 @@ I build Cybergod for greater good.
 ## Links
 
 - [Github Projects](https://github.com/james4ever0)
-- [Blog](https://james4ever0.github.io/blog)
-- [Blog in Quarto](https://james4ever0.github.io/blog_quarto)
+- Blog in [Hexo](https://james4ever0.github.io/blog) and [Quarto](https://james4ever0.github.io/blog_quarto)
+- [Automated documentation](https://james4ever0.github.io/shelf.html) for open source projects
 
 ## How to build this webpage
 
