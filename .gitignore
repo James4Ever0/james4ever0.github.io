@@ -3,3 +3,6 @@ logs
 .atomic_commit_flag
 .atomic_commit_lock
 .inprogress_gitignore
+
+__pycache__
+*.py[cod]
