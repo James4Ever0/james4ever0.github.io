@@ -45,3 +45,17 @@ MultiModalMamba
 RT-2
 AutoRT
 autodoc
+
+autoup_doc
+autowork_doc
+cf_doc
+lazer_doc
+lazero_doc
+metalazero_doc
+lazero_android_doc
+linear_programming_doc
+
+DynamiCrafter
+act-plus-plus
+mobile-aloha
+NExT-Chat

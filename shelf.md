@@ -21,6 +21,11 @@ Generated with [prometheus](https://github.com/james4ever0/prometheus)
 - Utils
     - [git_atomic_commit](https://james4ever0.github.io/git_atomic_commit) *To fix any issue detected by `git fsck` caused by any git operation, once for all*
     - [lazero](https://james4ever0.github.io/lazero) *AGI helper libraries, may help for AGI developments and researches, similar to google's automl-zero*
+    - [cf](https://james4ever0.github.io/cf_doc) *The comprehensive framework*
+    - [lazer](https://james4ever0.github.io/lazer_doc) *Make everything executable, analyzable, controllable.*
+    - [lazero](https://james4ever0.github.io/lazero_doc) (legacy) *Automatic information gathering, understanding and source code generating.*
+    - [metalazero](https://james4ever0.github.io/metalazero_doc) *A cross-platform lazero implememtation.*
+    - [lazero_android](https://james4ever0.github.io/lazero_android_doc) *Lazero for Android*
 - Q* (Q-Star)
     - [q-transformer](https://james4ever0.github.io/q-transformer) *Scalable Offline Reinforcement Learning via Autoregressive Q-Functions, out of Google Deepmind*
     - [open_qstar](https://james4ever0.github.io/open_qstar) *Transformer-based LLM structurally infused with Q-Learning and A* heuristic search algorithms* 
@@ -39,15 +44,21 @@ Generated with [prometheus](https://github.com/james4ever0/prometheus)
 - Embodied Intelligence
     - [Voyager](https://james4ever0.github.io/Voyager) *An Open-Ended Embodied Agent with Large Language Models*
     - [RoboGen](https://james4ever0.github.io/RoboGen) *A generative and self-guided robotic agent that endlessly propose and master new skills.* 
+    - [act-plus-plus](https://james4ever0.github.io/act-plus-plus) *Imitation Learning algorithms with Co-traing for Mobile ALOHA: ACT, Diffusion Policy, VINN*
+    - [mobile-aloha](https://james4ever0.github.io/mobile-aloha) *Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation*
 - Media content automation
     - [vced](https://james4ever0.github.io/vced) *通过你的文字描述来自动识别视频中相符合的片段进行视频剪辑*
     - [pyjom](https://james4ever0.github.io/pyjom_doc) *Social media automation project*
     - [PaddleVideo](https://james4ever0.github.io/PaddleVideo) *Awesome video understanding toolkits based on PaddlePaddle.*
     - [google-research](https://james4ever0.github.io/google-research) *Google Research*
+    - [autoup](https://james4ever0.github.io/autoup_doc) *Automatically make and upload videos to bilibili.com*
+    - [autowork](https://james4ever0.github.io/autowork_doc) *Automate the entire process of video production*
+    - [DynamiCrafter](https://james4ever0.github.io/DynamiCrafter) *Animating Open-domain Images with Video Diffusion Priors*
 - Multimodal Transformer
     - [MultiModalMamba](https://james4ever0.github.io/MultiModalMamba) *A novel implementation of fusing ViT with Mamba into a fast, agile, and high performance Multi-Modal Model.*
     - [Gemini](https://james4ever0.github.io/Gemini) *The model that will "eclipse ChatGPT"*
     - [gato](https://james4ever0.github.io/gato) *A Generalist Agent*
+    - [NExT-Chat](https://james4ever0.github.io/NExT-Chat) *An LMM for Chat, Detection and Segmentation*
 - Robotic Transformer
     - [robo_transformers](https://james4ever0.github.io/robo_transformers) *Library for Robotic Transformers. RT-1, RT-X-1, Octo*
     - [RT-2](https://james4ever0.github.io/RT-2) *New model translates vision and language into action*
@@ -64,3 +75,4 @@ Generated with [prometheus](https://github.com/james4ever0/prometheus)
 - Miscellaneous
     - [Kacket](https://james4ever0.github.io/Kacket) *A toy Racket/Scheme code analyzer written in Kotlin.*
     - [he4o](https://james4ever0.github.io/he4o) *HE —— “螺旋熵减机”*
+    - [linear_programming](https://james4ever0.github.io/linear_programming_doc) *Linear Modeling and Debugging*
