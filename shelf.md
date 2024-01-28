@@ -54,6 +54,8 @@ Generated with [prometheus](https://github.com/james4ever0/prometheus)
     - [autoup](https://james4ever0.github.io/autoup_doc) *Automatically make and upload videos to bilibili.com*
     - [autowork](https://james4ever0.github.io/autowork_doc) *Automate the entire process of video production*
     - [DynamiCrafter](https://james4ever0.github.io/DynamiCrafter) *Animating Open-domain Images with Video Diffusion Priors*
+- Long Context Transformer
+    - [RWKV-LM](https://james4ever0.github.io/RWKV-LM) *The RWKV Language Model*
 - Multimodal Transformer
     - [MultiModalMamba](https://james4ever0.github.io/MultiModalMamba) *A novel implementation of fusing ViT with Mamba into a fast, agile, and high performance Multi-Modal Model.*
     - [Gemini](https://james4ever0.github.io/Gemini) *The model that will "eclipse ChatGPT"*
