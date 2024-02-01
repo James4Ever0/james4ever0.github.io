@@ -1,4 +1,4 @@
-# James Brown
+<h1>James Brown<div style="float: right;"><a style="margin-left:10px;"><i class="bi bi-linkedin"></i></a><a href="https://twitter.com/YHatsuii" style="margin-left:10px;"><i class="bi bi-twitter"></i></a></div></h1>
 
 ## About me
 
